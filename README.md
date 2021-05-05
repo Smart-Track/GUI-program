@@ -63,13 +63,8 @@ Form3 - Leaderboard
 
 # Image Gallery
 
-![image-20210430-154437-a2d73727](https://user-images.githubusercontent.com/68122426/117200580-9ed13d80-adb9-11eb-9073-e2c98b634fc8.jpeg)
-![image-20210430-154442-ae8883db](https://user-images.githubusercontent.com/68122426/117200600-a4c71e80-adb9-11eb-86b8-e8b59b56cfc7.jpeg)
-![image-20210430-154551-0cab5338](https://user-images.githubusercontent.com/68122426/117200744-d50ebd00-adb9-11eb-89c5-c27a4092294a.jpeg)
-![image-20210430-154625-e53be03d](https://user-images.githubusercontent.com/68122426/117200785-e1931580-adb9-11eb-9723-2b6e393c90b3.jpeg)
-![20210420_120333(1)](https://user-images.githubusercontent.com/68122426/117200971-1acb8580-adba-11eb-9041-938fc7d0b57d.jpg)
 ![App Window](https://user-images.githubusercontent.com/68122426/117201116-46e70680-adba-11eb-9292-a83ecacb23c9.JPG)
-![Initials WIndow](https://user-images.githubusercontent.com/68122426/117201130-4b132400-adba-11eb-8110-bc6d730320f5.JPG)
+![Initials Window](https://user-images.githubusercontent.com/68122426/117201130-4b132400-adba-11eb-8110-bc6d730320f5.JPG)
 ![Leaderboard](https://user-images.githubusercontent.com/68122426/117201138-4c445100-adba-11eb-9f4e-5460ec7a69e3.JPG)
 
 # Authors
