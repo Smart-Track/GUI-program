@@ -8,7 +8,7 @@ Smart Track has three checkpoints, including one starting line checkpoint. These
 
 ## GUI Application
 
-Either compile the contents of `/Smart-Track/GUI-program/` in Microsoft Visual Studio or download `g` to a computer running Windows and open the executable. Both of these methods require running the application as administrator (right click VS or the .exe and "Run as Administrator").
+Either compile the contents of `/Smart-Track/GUI-program/` in Microsoft Visual Studio or download `Smart Track.exe` to a computer running Windows and open the executable. Both of these methods require running the application as administrator (right click VS or the .exe and "Run as Administrator").
 
 ## Hardware Requirements
 
